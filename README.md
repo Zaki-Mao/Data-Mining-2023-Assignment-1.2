@@ -1,6 +1,6 @@
 # Data-Mining-2023-Assignment-1.2
 
-HI I am **Zunjie**, This assignment compares and evaluates **support vector machines** and **decision tree** models on the <a href="https://archive.ics.uci.edu/ml/datasets/Census%2BIncome" title="超链接title">Adult</a> dataset, making an analysis of both models through a variety of evaluation metrics. All code units are run in _Google Colab_. Three main parts I have done in this Assignment.
+HI I am **Zunjie**, This assignment compares and evaluates **support vector machines** and **decision tree** models on the <a href="https://archive.ics.uci.edu/ml/datasets/Census%2BIncome" title="超链接title">Adult</a> dataset, making an analysis of both models through a variety of evaluation metrics. All code units are run in ![](https://img.shields.io/badge/-Google%20Colab-yellow)![PyPI - Python Version](https://img.shields.io/pypi/pyversions/google-colab). Three main parts I have done in this Assignment. 
 
 ## Data Pre-processing
 
